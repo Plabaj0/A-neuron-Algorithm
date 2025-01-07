@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/afd3f68b-d020-4a44-b9d9-c297cc9a631b)
+Prosty program używający 2 algorytmów bazujący na WebSocket, celem projektu miał być algorytm macierzowy ważonych, natomiast skończyło się na algorytmie znajdowania najbliższej trasy oraz najbliższego punktu. 
 
+https://github.com/user-attachments/assets/2680e04b-014b-4a31-a6ba-ae0572ed97ed
 
-https://github.com/user-attachments/assets/43ab9048-b3a4-49b1-adb3-e7382d258b22
 
